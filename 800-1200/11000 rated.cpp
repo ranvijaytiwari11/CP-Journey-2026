@@ -5,7 +5,7 @@ using ll = long long;
 
 void solve() {
     ll n, k;
-    cin >> n >> k;
+    cin >> n >>k;
 
     vector<ll> v(n);
 
