@@ -6,7 +6,7 @@
 // Language    : C++
 // Focus       : DSA & Competitive Programming
 // Status      : Always Learning | Always Improving
-
+//har har mahadev
 #include<bits/stdc++.h>
 using namespace std;
 long long gcd(long long a, long long b) {
