@@ -2,7 +2,7 @@
 using namespace std;
 
 using ll = long long;
-
+//ranvijay
 void solve() {
     ll n, k;
     cin >> n >>k;
